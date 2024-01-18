@@ -1,14 +1,13 @@
 # News App
 
-[![Project Image](![image1](https://github.com/shiv10000/News-app/assets/99168422/6bd574b4-f70f-465b-9fcf-f8ade957f163)))] 
-
+[![Project Image]( ![image1](https://github.com/shiv10000/News-app/assets/99168422/18a09bed-96c7-434c-b9f3-306a65944a3e))]
 A brief and engaging introduction to your project. Describe what it does, why it's unique, and highlight key features.
 
 ## Features
 
 - **Feature 1:** Scroll down to get the news.
  
- 
+
  
 
 ## Getting Started
