@@ -1,7 +1,6 @@
 # News App
 
-[![Project Image]( ![image1](https://github.com/shiv10000/News-app/assets/99168422/18a09bed-96c7-434c-b9f3-306a65944a3e))]
-A brief and engaging introduction to your project. Describe what it does, why it's unique, and highlight key features.
+ A brief and engaging introduction to your project. Describe what it does, why it's unique, and highlight key features.
 
 ## Features
 
